@@ -1,0 +1,6 @@
+Cytochrome c Bootstrap Support Analysis
+=======================================
+
+Canis_lupus_familiaris + Gallus_gallus + Homo_sapiens + Pan_troglodytes: 42.8%
+Gallus_gallus + Homo_sapiens + Pan_troglodytes: 61.0%
+Homo_sapiens + Pan_troglodytes: 100.0%

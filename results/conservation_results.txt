@@ -1,0 +1,6 @@
+Cytochrome c Conservation Analysis
+=================================
+
+Alignment length: 105
+Fully conserved positions: 87
+Variable positions: 18
