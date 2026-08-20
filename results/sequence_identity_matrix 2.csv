@@ -1,0 +1,7 @@
+,Homo_sapiens,Pan_troglodytes,Canis_lupus_familiaris,Equus_caballus,Bos_taurus,Gallus_gallus
+Homo_sapiens,100.0,100.0,89.52,88.57,90.48,87.62
+Pan_troglodytes,100.0,100.0,89.52,88.57,90.48,87.62
+Canis_lupus_familiaris,89.52,89.52,100.0,94.29,97.14,90.48
+Equus_caballus,88.57,88.57,94.29,100.0,97.14,89.52
+Bos_taurus,90.48,90.48,97.14,97.14,100.0,91.43
+Gallus_gallus,87.62,87.62,90.48,89.52,91.43,100.0
